@@ -15,7 +15,7 @@ body {
     white-space: nowrap;
     overflow: hidden;
     animation: 
-    typing .8s, 
+    typing 1s, 
     cursor .5s step-end infinite alternate;
 }
 
